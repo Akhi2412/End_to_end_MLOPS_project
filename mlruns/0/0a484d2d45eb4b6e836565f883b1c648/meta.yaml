@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/akhileshkumar/Documents/Interview%20Kickstart/MLOps_Project/End_to_end_MLOPS_project/mlruns/0/0a484d2d45eb4b6e836565f883b1c648/artifacts
+end_time: 1724987930754
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a484d2d45eb4b6e836565f883b1c648
+run_name: smiling-moose-865
+run_uuid: 0a484d2d45eb4b6e836565f883b1c648
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724987926610
+status: 3
+tags: []
+user_id: akhileshkumar
